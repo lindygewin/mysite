@@ -1,14 +1,5 @@
 ---
-
-title: "mysite"
-format: html
-editor: visual
+title: "Lindy Gewin"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Making a sample website for a Quarto lesson.
