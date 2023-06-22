@@ -1,6 +1,8 @@
 ---
-usethis::---
+
 title: "mysite"
+format: html
+editor: visual
 ---
 
 This is a Quarto website.
