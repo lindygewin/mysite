@@ -1,5 +1,8 @@
 ---
 title: "Lindy Gewin"
+image: bdsc-logo-hex.png
+about: 
+  template: jolla
 ---
 
 Making a sample website for a Quarto lesson.
